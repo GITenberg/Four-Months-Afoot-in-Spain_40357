@@ -1,0 +1,29 @@
+_repo: Four-Months-Afoot-in-Spain_40357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40357-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Franck, Harry Alverson
+    alias: Franck, Harry A.
+    birthdate: 1881
+    deathdate: 1962
+    gutenberg_agent_id: '1579'
+    url: http://www.gutenberg.org/2009/agents/1579
+    wikipedia: http://en.wikipedia.org/wiki/Harry_A._Franck
+description: ''
+gutenberg_issued: '2012-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40357'
+  lccn: '11027793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: Four Months Afoot in Spain
+url: http://www.gutenberg.org/ebooks/40357
