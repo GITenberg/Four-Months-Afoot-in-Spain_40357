@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1579
     wikipedia: http://en.wikipedia.org/wiki/Harry_A._Franck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40357#Four-Months-Afoot-in-Spain
 gutenberg_issued: '2012-07-27'
 gutenberg_type: Text
 identifiers:
